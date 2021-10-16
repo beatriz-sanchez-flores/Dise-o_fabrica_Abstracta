@@ -5,7 +5,8 @@ public class AstraCarroceria extends Carroceria
     @Override
     public String lacarroceria()
     {
-        String carrocerosia=
+        String carrocerosia="Opel carroceria= Color: pinkish, Chasis: independiente, Carroceria: Autoportante";
+        return carrocerosia;
     }
 
 }
